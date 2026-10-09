@@ -32,3 +32,4 @@
 - Pair contribution #24
 - Pair contribution #25
 - Codecrafter
+- YOLO attempt
